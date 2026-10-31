@@ -1,0 +1,22 @@
+{
+  "wheel_id": 560,
+  "structure": "umbrella",
+  "slug": "ext-db-t1-brisbanegaragedoorrepair-au-102",
+  "project": "brisbane-garage-door-repair-faq-df88e6b5f203a931c18e6a2a37a679c",
+  "parent_t1_ref": "ext-db-t1-brisbanegaragedoorrepair-au-150",
+  "node_role": "feeder",
+  "money_target": "brisbanegaragedoorrepair.au",
+  "primary_kw": "brisbane garage door repair faq",
+  "intended_url": "https://sitesau.github.io/ext-db-t1-brisbanegaragedoorrepair-au-102/",
+  "tier": "T2",
+  "writeback_nonce": "a080cd6d28375672",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/brisbane-garage-door-repair-dd2d9f41211c32821f3f65aaf83de42ab10/",
+      "anchor": "more on brisbane garage door repair",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
